@@ -1,19 +1,3 @@
-## FullStack Developer👋
-
-<!--
-**Eddimaia/Eddimaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
   <a href="https://github.com/Eddimaia">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eddimaia&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
@@ -23,10 +7,10 @@ Here are some ideas to get you started:
 <hr>
 
 ### About me:
-* My name is Edson Moura, I'm a FullStack Developer.
-* My main stack is C#/.NET focus on background workers and APIs.
-* Actually actuating as Mid Level FullStack Developer.
-* My current goal is to become a Senior Software Engineer.
+* 👨🏽 My name is Edson Moura, I'm a FullStack Developer.
+* 🥇 My main stack is C#/.NET focus on background workers and APIs.
+* 💻 Actually actuating as Mid Level FullStack Developer.
+* ⭐️ My current goal is to become a Senior Software Engineer.
 
  ## MY STACKS:
 <div style="display: inline_block"><br>
